@@ -1,6 +1,7 @@
 # python task 2 (leap year)
-## i have made 2 solutions to solve this task (second solution is a commint)
-![Screenshot from 2023-05-03 10-29-29](https://user-images.githubusercontent.com/128406458/235855540-e5634b74-1a35-426b-9447-39e490cf0c58.png)
-![Screenshot from 2023-05-03 00-57-36](https://user-images.githubusercontent.com/128406458/235855346-bed456a2-0c74-4a56-aa5f-5311492b8882.png)
+## the code :
+![Screenshot from 2023-05-04 02-09-37](https://user-images.githubusercontent.com/128406458/236071276-4cf4a663-cb39-4924-9cc4-8fbcca3ee91d.png)
 
+## execute the script :
+![Screenshot from 2023-05-04 02-10-43](https://user-images.githubusercontent.com/128406458/236071294-99a599ec-9cf3-4c9f-9d2e-19d27f29bfd5.png)
 
