@@ -7,7 +7,7 @@ def is_leap():
             if year % 400 ==0:                    
                 print(" {} is a Leap year ".format(year))
         else:
-            print(" {} is not a Leap year ".format(year))
+            print(" {} is a Leap year ".format(year))
     else:
         print(" {} is not a Leap ".format(year))
 
