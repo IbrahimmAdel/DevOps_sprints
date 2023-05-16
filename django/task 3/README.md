@@ -11,7 +11,7 @@ _Ibrahim Adel_
 ![/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/modules.png]
 
 - i create StudentForm and its validation :
-![2](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms1.png)
+/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms1.png
 
 - then, create StudentForm and its validation :
 ![2][/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms2.png]
