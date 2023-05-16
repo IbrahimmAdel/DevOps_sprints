@@ -8,13 +8,13 @@ _Ibrahim Adel_
 ## i made 2 forms and validations then i made admin to the last 2 modules form task 2 
 
 ### my 2 modules from task 2 (Students , Courses) :
-![](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/modules.png)
+![1](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/modules.png)
 
 - i create StudentForm and its validation :
-![](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms1.png)
+![2](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms1.png)
 
 - then, create StudentForm and its validation :
-![](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms2.png)
+![3](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms2.png)
 
 - then, create 2 html files in template for forms : (home.html , home2.html)
 ![](/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/home.html.png)
