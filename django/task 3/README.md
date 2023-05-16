@@ -3,15 +3,15 @@ _Ibrahim Adel_
 
 15 May 2023
 
-#task 3 Django
+# task 3 Django
 
-##i made 2 forms and validations then i made admin to the last 2 modules form task 2 
+## i made 2 forms and validations then i made admin to the last 2 modules form task 2 
 
-###my 2 modules from task 2 (Students , Courses) :
+### my 2 modules from task 2 (Students , Courses) :
 ![/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/modules.png]
 
 - i create StudentForm and its validation :
-![1][/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms1.png]
+[/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms1.png]
 
 - then, create StudentForm and its validation :
 ![2][/home/ibrahim/ibrahim/DevOps/bootcamp tasks github/DevOps_Bootcamp/django/task 3/screen shots/forms2.png]
