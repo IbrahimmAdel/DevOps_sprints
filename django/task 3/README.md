@@ -10,10 +10,10 @@ _Ibrahim Adel_
 ### 2 modules from task 2 (Students , Courses) :
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/modules.png)
 
-### i create StudentForm and its validation :
+### i create StudentsForm and its validation :
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/forms1.png)
 
-### then, create StudentForm and its validation :
+### then, create CoursestForm and its validation :
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/forms2.png)
 
 ### then, create 2 html files in template for forms : (home.html , home2.html)
@@ -24,10 +24,10 @@ _Ibrahim Adel_
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/paths.png)
 
 ### students form :
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/forms1.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/students%20form.png)
 
 ### courses form :
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/forms2.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/courses%20form.png)
 
 ### finally, i create super user :
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/django/task%203/screen%20shots/create%20siper%20user.png)
