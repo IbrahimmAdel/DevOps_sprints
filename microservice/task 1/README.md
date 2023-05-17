@@ -6,6 +6,7 @@
 
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/assets/128406458/dcf5ac4e-6e09-4eef-be3a-d6cba4fb571e)
 
+[html file](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/microservice/task%201/nginx-image/files/index.html)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/assets/128406458/f510e41c-c8d1-4168-850e-7b83e7c72398)
 
 
