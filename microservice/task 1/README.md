@@ -4,7 +4,7 @@
 
 # create docker file : [Dockerfile](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/microservice/task%201/nginx-image/Dockerfile)
 
-#bulid nginex image 
+# bulid nginex image 
 
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/assets/128406458/90f92ea9-5160-4231-b3d1-85ff2384ef4a)
 
