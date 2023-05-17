@@ -1,4 +1,4 @@
-# FIRST MICROSERVICE TASK
+# FIRST MICROSERVICES TASK
 
 ## prepare nginx docker image with html content to act as web server
 
