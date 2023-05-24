@@ -14,11 +14,10 @@
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/4%2C5.png)
 
 6.try to run a container from nginx:alpine and delete image.
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/6.png)
+![]()
 
 7.delete the image redis.
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/7.png)
-
+![]()
 8. pull image from nginx:1.4-alpine , run an instance of the ubuntu image to run the sleep 1000 command at startup.
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/8.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/8.2.png)
