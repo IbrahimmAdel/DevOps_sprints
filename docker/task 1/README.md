@@ -30,9 +30,9 @@
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/7.png)
 
 
-8. pull image from nginx:1.14-alpine. And run an instance of ubuntu image to run the sleep 1000 command at startup.
+8. pull image from nginx:1.14-alpine & run an instance of ubuntu image to run the sleep 1000 command at startup & Exec into the container and touch a file called test-file
+
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/8.png)
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/8.2.png)
 
 9. run a container with the nginx:alpine image and name it web.
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/9.png)
