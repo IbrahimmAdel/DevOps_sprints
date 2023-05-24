@@ -13,12 +13,12 @@
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/3.png)
 
 4. try to stop the running redis contianer.
-5. check the Id of the redis container.
+5. check the ID of the redis container.
 
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/4%2C5.png)
 
 6. try to run a container from nginx:alpine and delete the image
-# can't delete an image with running container from it, so i stoped and delete the container first then delete the image.
+### can't delete an image with running container from it, so i stoped and delete the container first then delete the image.
 
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/6.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/docker/task%201/screen-shots/6.1.png)
