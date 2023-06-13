@@ -9,3 +9,6 @@
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/kubernetes/task%201/screenshots/4.png)
 ## describe the service to make sure that it has endpoints of any deployment pods IP 
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/kubernetes/task%201/screenshots/5.png)
+## check nginx service from a debug-pod
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/kubernetes/task%201/screenshots/6.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/kubernetes/task%201/screenshots/7.png)
