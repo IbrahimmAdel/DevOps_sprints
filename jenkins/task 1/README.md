@@ -5,10 +5,10 @@
 ### also jenkins can automate the whole process of buliding, testing, and deploying applications.
 
 ## (2) Install jenkins with docker image.
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkinse/task%201/screenshots/1.1.png)
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkinse/task%201/screenshots/1.2.png)
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkinse/task%201/screenshots/1.3.png)
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkinse/task%201/screenshots/1.4.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%201/screenshots/1.1.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%201/screenshots/1.2.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%201/screenshots/1.3.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%201/screenshots/1.4.png)
 
 ## (3) what are plugins in jenkins ?
 ### plugins are an enhancement to the Jenkins system, They help extend Jenkins capabilities and integrated Jenkins with other software.
