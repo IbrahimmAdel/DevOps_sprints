@@ -16,3 +16,8 @@
 ### plugins examples : Git Plugin, Kubernetes Plugin, Maven Integration Plugin, Amazon EC2 Plugin
 
 ## (4) Create free style project and link it to private git repo containing any dockerfile then biuld an image from this dockerfile and push it to private docker repo 
+![]()
+![]()
+![]()
+![]()
+
