@@ -10,7 +10,10 @@
   
 -----------------------------------------
 ## 3) what are the different ways to trigger pipeline ? 
--
+- webhooks
+- REST API
+- commit commands
+- slack commands
 
 -----------------------------------------
 ## 4) what is different between parameter and jenkins env variable ?
@@ -33,13 +36,6 @@
 
 -----------------------------------------
 ## 7) Create another multibranch pipeline and filter branches to contain only (master , dev , test ) 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/2.1.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/2.2.png)
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/2.3.png)
