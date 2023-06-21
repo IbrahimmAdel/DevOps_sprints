@@ -22,8 +22,8 @@
 
 -----------------------------------------
 ## 6) Create jenkins pipeline for your repo and use script file (jenkinsfile) to write pipeline syntax, include parameter functions and env variable in it 
+![]()
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.1.png)
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.2.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.3.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.4.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.5.webm)
