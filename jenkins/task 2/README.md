@@ -2,11 +2,11 @@
 
 -----------------------------------------
 ## 1) What is Jenkins pipeline ?
--
+- is a collection of jobs or steps that brings the software from version control into the hands of the end users by using automation tools. It is used to incorporate continuous delivery in our software development workflow.
 
 -----------------------------------------
 ## 2) What scripting language is Jenkins pipeline syntax based on ?
-- Groovy Programming Language
+- Groovy scripting Language
   
 -----------------------------------------
 ## 3) what are the different ways to trigger pipeline ? 
