@@ -24,13 +24,12 @@
 ## 6) Create jenkins pipeline for your repo and use script file (jenkinsfile) to write pipeline syntax, include parameter functions and env variable in it 
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.1.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.2.png)
-## i make it true to test my project, so it will go through test stage
+## i made it true to test my project, so it will go through test stage
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.3.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.4.png)
-![]()
-## i make it false to test my project, so it weont go through test stage
+## this time i made it false, so it wont go through test stage
+![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.5.png)
 ![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.6.png)
-![](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/jenkins/task%202/screenshots/1.7.png)
 
 -----------------------------------------
 ## 7) Create another multibranch pipeline and filter branches to contain only (master , dev , test ) 
