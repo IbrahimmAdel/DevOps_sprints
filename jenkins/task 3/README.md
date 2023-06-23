@@ -11,19 +11,11 @@
 
 ----------------------------------------------------------
 ## 3) make jenkins-shared-library and make your jenkinsfile which you used in lab2 to point to this library
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+## used files: [building.groovy](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/vars/building.groovy) , [deploying.groovy](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/vars/deploying.groovy) , [testing.groovy](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/vars/testing.groovy) , [Jenkinsfile](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/Jenkinsfile) 
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/1.1.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/1.2.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/1.3.png)
+
 
 ----------------------------------------------------------
 ## 4) try to make new slave as container or ec2 server and configure master to use it
