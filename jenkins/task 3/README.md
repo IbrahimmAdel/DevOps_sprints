@@ -19,17 +19,10 @@
 
 ----------------------------------------------------------
 ## 4) try to make new slave as container or ec2 server and configure master to use it
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/2.1.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/2.2.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/2.3.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/2.4.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/jenkins/task%203/screenshots/2.5.png)
+
 
