@@ -1,0 +1,7 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ibrahim    31030  0.1  0.1  19020  4268 pts/2    Ss   06:02   0:00 bash
+ibrahim    31038  0.0  0.0  18624  3488 pts/2    S+   06:02   0:00  \_ /bin/bash ./file1.sh
+ibrahim    31039  0.0  0.0  21324  3424 pts/2    R+   06:02   0:00      \_ ps -f -u
+ibrahim    22905  0.0  0.0  19796  2584 pts/1    S+   02:19   0:00 -bash
+ibrahim     1533  0.0  0.0 171036  1980 tty2     Ssl+ Apr24   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+ibrahim     1536  0.0  0.0 231684  2136 tty2     Sl+  Apr24   0:00  \_ /usr/libexec/gnome-session-binary --session=ubuntu

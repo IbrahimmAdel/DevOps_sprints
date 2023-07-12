@@ -1,0 +1,8 @@
+Filesystem Use% Mounted
+tmpfs 1% /run
+/dev/mapper/vgubuntu-root 18% /
+tmpfs 9% /dev/shm
+tmpfs 1% /run/lock
+/dev/sdb2 2% /boot/efi
+tmpfs 1% /run/user/1000
+tmpfs 1% /run/user/1001
