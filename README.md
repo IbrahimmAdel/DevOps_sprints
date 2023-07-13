@@ -1,1 +1,1 @@
-## This Repo. contains all labs and tasks that i've made in my journy with 'SPRINTS' 
+## This Repo contains all tasks that i've done in my journy with 'SPRINTS' 
