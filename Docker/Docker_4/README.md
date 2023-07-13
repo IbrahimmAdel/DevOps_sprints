@@ -1,5 +1,3 @@
-# FIRST MICROSERVICES TASK
-
 ## prepare nginx docker image with html content to act as web server
 
 # create docker file : [Dockerfile](https://github.com/IbrahimmAdel/DevOps_Bootcamp/blob/main/microservice/task%201/nginx-image/Dockerfile)
