@@ -6,10 +6,10 @@
 ![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Terraform/Terraform_3/screenshots/workspace.png)
 ----
 ## *proxy configuration*
-![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Terraform/Terraform_3/screenshots/Screenshot%20from%202023-07-18%2003-58-11.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Terraform/Terraform_3/screenshots/proxy%20configuration.png)
 -----
 ## *The apache page of the private EC2 through public Loadbalancer DNS*
-![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Terraform/Terraform_3/screenshots/load-balancer-2.png)
+![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Terraform/Terraform_3/screenshots/load-balancer.png)
 -----
 ## *The s3 bucket that contain the state file*
 ![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Terraform/Terraform_3/screenshots/s3.png)
