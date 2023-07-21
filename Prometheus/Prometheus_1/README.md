@@ -12,11 +12,11 @@
 ## 3) What is the difference between different metrics types ( counter, gauge, histogram)?
 ### **counter** :
 - 'How many?'
-- **Counter** is a fundamental way for tracking how often an event occurs within an application or service.
+- Counter is a fundamental way for tracking how often an event occurs within an application or service.
 - An example of a counter metric is http_requests_total, which reports the running total of HTTP requests to an endpoint on an application or service.
 ### **gauge** :
 - 'Current state of events'
-- are used to periodically take measurements or snapshots of a metric at a single point in time.
+- gauage is used to periodically take measurements or snapshots of a metric at a single point in time.
 
 ### **histogram** :
 - 'How long?'
