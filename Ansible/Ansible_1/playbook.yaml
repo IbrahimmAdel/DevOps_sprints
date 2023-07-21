@@ -1,0 +1,66 @@
+- name: play1
+  hosts: ec2
+  become: true
+  tasks: 
+    - name: Update package cache
+      apt:
+        update_cache: yes
+
+    - name: install nginx
+      become: true
+      apt:
+          name: nginx
+          state: latest
+
+    - name: edit nginx default page
+      copy:
+        src: index.html
+        dest: /var/www/html/index.html
+    
+    - name: edit listen configuration
+      become: true
+      lineinfile:
+        path: /etc/nginx/sites-available/default
+        regexp: '^(?P<group>.*listen.*) 80;'
+        line: '\g<1> 8090;'
+        backrefs: yes   
+
+  handlers:
+    - name: Restart NGINX service
+      become: true
+      service:
+        name: nginx
+        state: restarted
+
+- name: play2
+  hosts: ec2
+  become: yes
+  tasks: 
+    - name: Clone the GitHub repository
+      git:
+        repo: https://github.com/sabreensalama/dockerize-node-app-task.git
+        dest: /applications/dockerize-node-app
+        version: main
+
+    - name: install Node.js and npm 
+      apt:
+        name: 
+          - nodejs
+          - npm
+        state: present
+        update_cache: yes
+      
+    - name: install application dependences
+      npm:
+        path: /applications/dockerize-node-app
+        state: latest
+
+    # we can use both ways to run the Node.js APP 
+    - name: run the application
+      # shell: node /applications/dockerize-node-app/server.js
+      command: npm start &
+      args:
+        chdir: /applications/dockerize-node-app 
+      
+
+      
