@@ -18,9 +18,15 @@
 ![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Docker/Docker_2/Screenshots/14..png)
 ---
 ## 15. Pull the code from https://github.com/sabreensalama/simple-flask-app/tree/main and create a docker file for this flask app.
+#### Dockerfile:
+```
+FROM python:3.8
+COPY requirements.txt .
+RUN pip3 install --no-chace-dir -r  requirements.txt .
+EXPOSE 5000
+CMD [ "python3", "app.py" ]
 
-## Docker file : [Dockerfile]()
-
+```
 ![](https://github.com/IbrahimmAdel/DevOps_sprints/blob/main/Docker/Docker_2/Screenshots/15.png)
 ---
 ## 16. Create a volume called mysql_data, run a mysql container again, but this time map a volume to the container so that the data stored by the container is stored at /opt/data on the host. use the same name : mysql-db and same password : db_pass123 as before. Mysql stores data at /var/lib/mysql inside the container.
