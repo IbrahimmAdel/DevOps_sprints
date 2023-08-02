@@ -1,4 +1,4 @@
-# python task 2 (leap year)
+# Task 2 python (leap year)
 ## script :
 ![Screenshot from 2023-05-04 02-53-46](https://user-images.githubusercontent.com/128406458/236075600-35314eb8-f47b-4ca7-82ee-2caab4e59a67.png)
 
